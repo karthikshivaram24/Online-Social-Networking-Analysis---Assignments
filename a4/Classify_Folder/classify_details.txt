@@ -1,0 +1,5 @@
+Positive Number of Instances : 154
+Negative Number of Instances : 846
+Positive Instance Example : Voters: Trump's election is the media's doing.
+All media outlets except CNN: Actually, yes.
+Negative Instance Example : The Omega Glory: Kirk's Greatest Speech Believe it or not Captain Kirk said it best why Trump shouldn't be President 
